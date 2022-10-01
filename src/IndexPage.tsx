@@ -25,7 +25,7 @@ export const IndexPage = () => {
           </div>
           <div class="body">
             <iframe
-              src={`https://player.twitch.tv/?channel=${channelName}&parent=solidtwitchapp.loca.lt`}
+              src={`https://player.twitch.tv/?channel=${channelName}&parent=lustrous-queijadas-932d62.netlify.app`}
               frameborder="0"
               allowfullscreen="true"
               scrolling="no"
